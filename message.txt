@@ -1,1 +1,2 @@
 this is message file
+this is second message line
